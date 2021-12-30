@@ -7,6 +7,7 @@ This plugin only introduces a QoL changes by fixing client prediction errors and
 
 ## Requirements
 * SourceMod 1.10 or higher.
+* Current support: CSGO Only.
 
 ## Side note:
 This plugin enforces ``sv_sendtables`` to ``1``, so any alterations to that convar might cause clients being unable to connect or any other side effects.
