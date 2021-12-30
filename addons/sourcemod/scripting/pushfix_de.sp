@@ -1,7 +1,6 @@
 #include "sourcemod"
 #include "sdktools"
 #include "sdkhooks"
-#include "dhooks"
 
 #define SNAME "[PushFix DE] "
 
