@@ -1,3 +1,6 @@
+# Counter-Strike 2 support
+Since the release of CS2, this project would no longer be maintained and is archived.
+
 # PushFix Definitive Edition
 This plugin was built around the [research](https://forums.alliedmods.net/showthread.php?p=2766789) done by [@XutaxKamay](https://github.com/XutaxKamay) (part 1), so huge thanks to him for his work.
 
